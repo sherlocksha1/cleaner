@@ -6,7 +6,7 @@
     "delete",
     "bot"
   ],
-  "repository": "https://github.com/sherlocksha1/AutoDelete-V2",
+  "repository": "https://github.com/sherlocksha1/cleaner",
   "logo": "https://telegra.ph/file/8cd549b2beef98e83349e.jpg",
   "env": {
     "BOT_TOKEN": {
